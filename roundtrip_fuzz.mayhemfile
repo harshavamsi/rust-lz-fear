@@ -1,0 +1,5 @@
+project: rust-lz-fear
+target: roundtrip_fuzz
+
+cmds:
+  - cmd: /roundtrip_fuzz

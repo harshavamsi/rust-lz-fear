@@ -1,0 +1,5 @@
+project: rust-lz-fear
+target: interop_decode
+
+cmds:
+  - cmd: /interop_decode
